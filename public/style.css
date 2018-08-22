@@ -1,0 +1,20 @@
+body {
+  background-color: #eee;
+}
+
+.Posts__wrapper,
+.Post__wrapper {
+  padding-top: 1rem;
+}
+
+.Posts__post {
+  margin-bottom: 1rem;
+}
+
+.Post__comments {
+  margin-top: 2rem;
+}
+
+.Post__comments__wrapper .card {
+  margin-bottom: 1rem;
+}
